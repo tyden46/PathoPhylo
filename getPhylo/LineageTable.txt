@@ -1,0 +1,52 @@
+ID	no rank	superkingdom	clade	phylum	class	order	family	genus	species	strain	no rank2	clade2	clade3
+NZ_GG666997.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium accolens	Corynebacterium accolens ATCC 49725	NA	NA	NA
+NC_007795.1	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	Staphylococcus aureus subsp. aureus NCTC 8325	NA	NA	NA
+NZ_JIAH01000003.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudodiphtheriticum	Corynebacterium pseudodiphtheriticum DSM 44287	NA	NA	NA
+NZ_BMRF01000063.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura cremea	NA	NA	NA	NA
+NZ_REGE01000035.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium macginleyi	NA	NA	NA	NA
+NZ_BMRF01000072.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura cremea	NA	NA	NA	NA
+NZ_JIAH01000004.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudodiphtheriticum	Corynebacterium pseudodiphtheriticum DSM 44287	NA	NA	NA
+NZ_QPLJ01000067.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Jannaschia	Jannaschia formosa	NA	NA	NA	NA
+NZ_BHXD01000053.1	cellular organisms	Bacteria	NA	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Thermosipho	Thermosipho globiformans	NA	NA	NA	NA
+NZ_JADKPO010000068.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides agariphilus	NA	NA	NA	NA
+NZ_BHXD01000057.1	cellular organisms	Bacteria	NA	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Thermosipho	Thermosipho globiformans	NA	NA	NA	NA
+NZ_BMIV01000059.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus acridae	NA	NA	NA	NA
+NZ_BMRF01000099.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura cremea	NA	NA	NA	NA
+NZ_RRUE01000006.1	cellular organisms	Bacteria	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Lautropia	Lautropia dentalis	NA	NA	NA	NA
+NZ_BMRF01000083.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura cremea	NA	NA	NA	NA
+NZ_JADKPO010000073.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides agariphilus	NA	NA	NA	NA
+NZ_BNBF01000096.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_QPLJ01000097.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Jannaschia	Jannaschia formosa	NA	NA	NA	NA
+NZ_BMRF01000125.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura cremea	NA	NA	NA	NA
+NZ_BNBF01000074.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_BMIV01000076.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus acridae	NA	NA	NA	NA
+NZ_JACBZL010000001.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium tuberculostearicum	NA	NA	NA	NA
+NZ_BNBF01000107.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_BMVC01000047.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces finlayi	NA	NA	NA	NA
+NZ_BMRF01000161.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura cremea	NA	NA	NA	NA
+NZ_BNBF01000111.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_BMIV01000078.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus acridae	NA	NA	NA	NA
+NZ_MUYK01000052.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	Erythrobacter colymbi	NA	Erythrobacter/Porphyrobacter group	NA	NA
+NZ_BHXD01000064.1	cellular organisms	Bacteria	NA	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Thermosipho	Thermosipho globiformans	NA	NA	NA	NA
+NZ_QGNX01000055.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Oceanibium	Oceanibium sediminis	NA	NA	NA	NA
+NZ_BNBB01000081.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptosporangiales	Streptosporangiaceae	Streptosporangium	Streptosporangium violaceochromogenes	NA	NA	NA	NA
+NZ_BNBF01000121.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_BHXD01000058.1	cellular organisms	Bacteria	NA	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Thermosipho	Thermosipho globiformans	NA	NA	NA	NA
+NZ_JXXV01000068.1	cellular organisms	Bacteria	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio galatheae	NA	NA	NA	NA
+NZ_WACO01000134.1	cellular organisms	Bacteria	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Aequorivita	Aequorivita lutea	NA	NA	FCB group	Bacteroidetes/Chlorobi group
+NC_006085.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	Cutibacterium acnes KPA171202	NA	NA	NA
+NZ_CP012400.2	cellular organisms	Bacteria	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas yamanorum	NA	NA	NA	NA
+NC_000913.3	cellular organisms	Bacteria	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli K-12	Escherichia coli str. K-12 substr. MG1655	NA	NA
+NZ_LS483383.1	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus cristatus	Streptococcus cristatus ATCC 51100	NA	NA	NA
+NZ_BHXD01000040.1	cellular organisms	Bacteria	NA	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Thermosipho	Thermosipho globiformans	NA	NA	NA	NA
+NZ_BMSH01000129.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces gancidicus	NA	NA	NA	NA
+NZ_CP032621.1	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gwangjuense	NA	NA	NA	NA
+NZ_CP035288.1	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis	NA	NA	NA	NA
+NZ_JADBEH010000002.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus yunnanensis	NA	NA	NA	NA
+NZ_WJPN01000037.1	cellular organisms	Bacteria	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas sontii	NA	NA	NA	NA
+NZ_CABIYR010000010.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium propinquum	NA	NA	NA	NA
+NZ_CP024785.1	cellular organisms	Bacteria	NA	Cyanobacteria	NA	Nostocales	Nostocaceae	Nostoc	Nostoc flagelliforme	Nostoc flagelliforme CCNUN1	NA	Terrabacteria group	Cyanobacteria/Melainabacteria group
+NZ_BNBF01000140.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_BNBF01000093.1	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces capoamus	NA	NA	NA	NA
+NZ_BMIV01000088.1	cellular organisms	Bacteria	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus acridae	NA	NA	NA	NA
+NZ_CP065728.1	cellular organisms	Bacteria	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella nonliquefaciens	NA	NA	NA	NA
