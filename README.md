@@ -11,7 +11,7 @@
 ### Command Line Arguments
 #### PathoPhylo is run using the command `bash run.sh {MINIMUM_SUM_ABUNDANCE_VALUE}` where MINIMUM_SUM_ABUNDANCE_VALUE is a value greater than 0 that represents the minimum summed relative abundance for a genome that you want to consider. This is implemented because Pathoscope will often detect tens of thousands of genomes across samples. Establishing a minimum value of, say, 0.01, will reduce the total number of genomes and significantly improve runtime. If you do not want to set a minimum filter, simply supply a MINIMUM_SUM_ABUNDANCE_VALUE of 0.
 ### Demo
-#### You can run a demo by moving demo input folders to the current directory ie `mv input/* .` and then executing the command `bash run.sh 0.01`
+#### You can run a demo by moving demo input files to the current directory ie `mv input/* .` and then executing the command `bash run.sh 0.01`
 ### Output
 #### A file called `CombinedTable.txt` will be created that contains the relative abundance values across samples for the genomes that passed the MINIMUM_SUM_ABUNDANCE_VALUE threshold.
 #### A file called `LineageTable.txt` will be created that contains the taxonomic lineage for each the genomes that passed the MINIMUM_SUM_ABUNDANCE_VALUE threshold. 
