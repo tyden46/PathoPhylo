@@ -31,5 +31,5 @@ for(x in listOfFiles){
   counter=counter+1
 }
 combinedTable[is.na(combinedTable)]=0
-write.table(combinedTable,file="CombinedTable.txt",sep='\t',quote=FALSE,row.names = TRUE)
+write.table(combinedTable[which(rowSums(combinedTable)>as.numeric(args[1])),],file="CombinedTable.txt",sep='\t',quote=FALSE,row.names = TRUE)
 write.table(names(which(rowSums(combinedTable)>as.numeric(args[1]))),file="SubsetOfGenomes.txt",sep='\n',row.names = FALSE,col.names = FALSE,quote=FALSE)
